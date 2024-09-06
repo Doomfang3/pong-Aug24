@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+#gameScreen {
+  border: 5px solid black;
+  position: relative;
+  overflow: hidden
+}
